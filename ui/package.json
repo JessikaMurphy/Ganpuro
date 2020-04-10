@@ -19,7 +19,7 @@
     "@angular/platform-browser": "~8.2.9",
     "@angular/platform-browser-dynamic": "~8.2.9",
     "@angular/router": "~8.2.9",
-    "auth0-js": "^9.13.1",
+    "auth0-js": "^9.13.2",
     "express-jwt": "^5.3.1",
     "jwks-rsa": "^1.7.0",
     "rxjs": "~6.4.0",
